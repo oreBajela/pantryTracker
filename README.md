@@ -27,7 +27,7 @@ Installation
 Clone the repository:
 
 
-git clone https://github.com/yourusername/inventory-management-app.git
+git clone https://github.com/oreBajela/pantryTracker.git
 cd inventory-management-app
 Install the dependencies:
 
